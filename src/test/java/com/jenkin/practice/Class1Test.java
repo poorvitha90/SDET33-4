@@ -8,6 +8,7 @@ public class Class1Test {
 	{
 		System.out.println("class1 running");
 		//class1 changed
+		//class1 again changed
 	}
 
 }
