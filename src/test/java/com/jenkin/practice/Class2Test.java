@@ -7,6 +7,7 @@ public class Class2Test {
 	public void class2Test()
 	{
 		System.out.println("class2 running");
+		System.out.println("class2 again running");
 	}
 
 }
