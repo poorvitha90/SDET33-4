@@ -8,6 +8,7 @@ public class Class2Test {
 	{
 		System.out.println("class2 running");
 		System.out.println("class2 again running");
+		//commit1
 	}
 
 }
